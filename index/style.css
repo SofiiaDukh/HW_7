@@ -1,0 +1,59 @@
+:root {
+    --blue-color: #2196F3;
+    --dark-background-color: #2F303A;
+    --white-color: #FFFFFF;
+    --black-color: #212121;
+    --gray-color: #757575;
+}
+
+.studio {
+    color: var(--blue-color);
+}
+
+.portfolio,
+.contact {
+    color: var(--black-color);
+}
+.email{
+    color: var(--blue-color);
+}
+.tel{
+    color: var(--gray-color)
+}
+.efection-solutions{
+    background-color: var(--dark-background-color);
+}
+h1 {
+    color: var(--white-color);
+}
+.button {
+    background-color: var(--blue-color);
+    color: var(--white-color);
+}
+main h4 {
+    color: var(--black-color);
+}
+main p {
+    color: var(--gray-color);
+}
+.work h1 {
+    color: var(--black-color);
+}
+.staff h1 {
+    color: var(--black-color);
+}
+.name {
+    color: var(--black-color);
+}
+figcaption {
+    color: var(--gray-color);
+}
+.technical-support {
+    background-color:var(--dark-background-color);
+}
+footer p {
+    color: var(--white-color);
+}
+footer span {
+    color: var(--gray-color);
+}
